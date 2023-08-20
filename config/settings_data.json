@@ -394,10 +394,11 @@
         "settings": {
           "size": "large",
           "background_color": "#faf9f6",
+          "image": "shopify:\/\/shop_images\/malemodel_medium_900x_f8c52fb5-ed6b-45aa-ac20-5251b4cc8f39.webp",
           "image_crop": "none",
           "alignment": "center center",
-          "title": "Image is Everything",
-          "text": "<p>Pair large text with an image to give focus to your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+          "title": "VERSATILE",
+          "text": "<p>For both men and women of all ages, an extremely versatile hair enhancement application.<\/p>",
           "use_second_button": false,
           "button_label": "",
           "button_link": "",
