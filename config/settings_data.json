@@ -268,6 +268,7 @@
           "1486649413883-0",
           "1486649413883-1"
         ],
+        "disabled": true,
         "settings": {
           "section_height": "medium",
           "show_overlay": true,
@@ -457,6 +458,23 @@
           "desktop_layout": "right",
           "mobile_layout": "top"
         }
+      },
+      "d0452c9f-f046-4819-9c5f-af5d3978b886": {
+        "type": "feature-row",
+        "settings": {
+          "size": "large",
+          "background_color": "#faf9f6",
+          "image": "shopify:\/\/shop_images\/training_3_360x_99e1d500-f952-4800-8b42-092315cbb28a.webp",
+          "image_crop": "none",
+          "alignment": "center center",
+          "title": "WHY IS TRAINING SO IMPORTANT?",
+          "text": "<p>The CombLine application method has been developed for professionals, as this is a new technique education and training is essential by a CombLine educator.<\/p><p>Education & Training is the best tool a professional can have.<\/p><p>With out  knowledge of new techniques, it is not possible to master them.<\/p><p>Practice is the key to experience and success!<\/p>",
+          "use_second_button": false,
+          "button_label": "",
+          "button_link": "",
+          "desktop_layout": "right",
+          "mobile_layout": "top"
+        }
       }
     },
     "content_for_index": [
@@ -468,6 +486,7 @@
       "8d353fc8-b3c1-4494-aaca-31a777ee71d4",
       "1476381658595",
       "1486649413883",
+      "d0452c9f-f046-4819-9c5f-af5d3978b886",
       "1478027260401",
       "1492806970384",
       "1486649522802",
