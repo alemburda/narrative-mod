@@ -99,16 +99,17 @@
         "type": "hero",
         "settings": {
           "hero_size": "large",
+          "image": "shopify:\/\/shop_images\/training8_1728x_c6542d8f-feae-413b-897d-77353588a835.webp",
           "alignment": "top left",
-          "title": "Keep It Simple Stupid",
+          "title": "EDUCATION & TRAINING",
           "text": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.<\/p>",
           "text_size": "medium",
           "use_second_button": false,
           "button_label": "",
           "button_link": "",
-          "show_overlay": false,
-          "overlay_color": "#000000",
-          "overlay_text": "#3a3a3a",
+          "show_overlay": true,
+          "overlay_color": "#403535",
+          "overlay_text": "#ffffff",
           "overlay_opacity": "0.5"
         }
       },
