@@ -85,9 +85,10 @@
       "1476381402840": {
         "type": "video",
         "settings": {
-          "video_url": "https:\/\/youtu.be\/ctyMuXVCsrk",
+          "video_url": "https:\/\/www.youtube.com\/watch?v=4kXZWdvrx5I",
+          "cover_image": "shopify:\/\/shop_images\/female_models_medium_cropped_9919916c-74c9-44ce-bcb4-451ca72aceea.webp",
           "cover_image_position": "center center",
-          "cover_text": "Early Bird Gets The Worm",
+          "cover_text": "",
           "show_overlay": true,
           "overlay_color": "#000000",
           "overlay_text": "#ffffff",
@@ -126,6 +127,7 @@
       },
       "1478026923193": {
         "type": "feature-row",
+        "disabled": true,
         "settings": {
           "size": "large",
           "background_color": "#faf9f6",
@@ -200,13 +202,14 @@
             "settings": {
               "image": "shopify:\/\/shop_images\/webpage_girl.webp",
               "alignment": "center center",
-              "title": "Knight Rider",
-              "button": "PF Bravo",
+              "title": "",
+              "button": "",
               "cta_link": "shopify:\/\/products\/bravo-black-blue-fixie"
             }
           },
           "1486649208703": {
             "type": "image",
+            "disabled": true,
             "settings": {
               "alignment": "center center",
               "title": "City Slicker",
@@ -216,6 +219,7 @@
           },
           "1486649146314": {
             "type": "image",
+            "disabled": true,
             "settings": {
               "alignment": "center center",
               "title": "Hot Rod",
