@@ -77,7 +77,7 @@
           "show_social_icons": true,
           "show_payment_icons": true,
           "enable_parallax": true,
-          "show_newsletter": true,
+          "show_newsletter": false,
           "newsletter_heading": "Sign up for updates",
           "newsletter_button": "Ok"
         }
