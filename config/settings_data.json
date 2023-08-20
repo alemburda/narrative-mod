@@ -280,6 +280,7 @@
       },
       "1486649522802": {
         "type": "highlight",
+        "disabled": true,
         "settings": {
           "border_color": "#cbc8c1",
           "content_alignment": "middle",
@@ -330,6 +331,7 @@
           "1486649604878-1",
           "1486649604878-2"
         ],
+        "disabled": true,
         "settings": {
           "use_second_button": false,
           "text_color": "#ffffff",
@@ -343,6 +345,7 @@
       },
       "1486649811524": {
         "type": "featured-product",
+        "disabled": true,
         "settings": {
           "featured_product": "",
           "layout": "square",
@@ -384,6 +387,7 @@
         "block_order": [
           "1492806970384-0"
         ],
+        "disabled": true,
         "settings": {
           "heading_text": "",
           "heading_color": "#3a3a3a",
@@ -494,6 +498,23 @@
           "overlay_text": "#ffffff",
           "overlay_opacity": "0.5"
         }
+      },
+      "3fb70d32-2e2b-42f0-ad27-a3decd9a1274": {
+        "type": "feature-row",
+        "settings": {
+          "size": "large",
+          "background_color": "#faf9f6",
+          "image": "shopify:\/\/shop_images\/CLNEWCASE_360x_2c0b1e50-1a69-4a97-aa73-eaebe908a0bb.webp",
+          "image_crop": "none",
+          "alignment": "center center",
+          "title": "ENQUIRES",
+          "text": "<p>For Training and pricing in contact your nearest CombLine distributor.<\/p>",
+          "use_second_button": false,
+          "button_label": "Contact",
+          "button_link": "shopify:\/\/pages\/contact",
+          "desktop_layout": "right",
+          "mobile_layout": "top"
+        }
       }
     },
     "content_for_index": [
@@ -511,7 +532,8 @@
       "1492806970384",
       "1486649522802",
       "1486649604878",
-      "1486649811524"
+      "1486649811524",
+      "3fb70d32-2e2b-42f0-ad27-a3decd9a1274"
     ]
   },
   "presets": {
