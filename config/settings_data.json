@@ -127,18 +127,18 @@
       },
       "1478026923193": {
         "type": "feature-row",
-        "disabled": true,
         "settings": {
           "size": "large",
           "background_color": "#faf9f6",
+          "image": "shopify:\/\/shop_images\/mia_resize1.jpg",
           "image_crop": "none",
           "alignment": "center center",
-          "title": "Image is Everything",
-          "text": "<p>Pair large text with an image to give focus to your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+          "title": "CombLine Application",
+          "text": "<p>CombLine hair enhancement application is an application system that gives you the ability to use your favourite hair brand with our fast and easy to apply application, creating invisible, light weight and super comfortable bonds.<\/p>",
           "use_second_button": false,
           "button_label": "",
           "button_link": "",
-          "desktop_layout": "left",
+          "desktop_layout": "right",
           "mobile_layout": "top"
         }
       },
@@ -388,11 +388,28 @@
           "top_margin": true,
           "bottom_margin": false
         }
+      },
+      "7faaaf78-f5df-4349-8ff5-fe28592afce4": {
+        "type": "feature-row",
+        "settings": {
+          "size": "large",
+          "background_color": "#faf9f6",
+          "image_crop": "none",
+          "alignment": "center center",
+          "title": "Image is Everything",
+          "text": "<p>Pair large text with an image to give focus to your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+          "use_second_button": false,
+          "button_label": "",
+          "button_link": "",
+          "desktop_layout": "left",
+          "mobile_layout": "top"
+        }
       }
     },
     "content_for_index": [
-      "1478026923193",
       "1476381402840",
+      "1478026923193",
+      "7faaaf78-f5df-4349-8ff5-fe28592afce4",
       "1476381658595",
       "1486649413883",
       "1478027260401",
