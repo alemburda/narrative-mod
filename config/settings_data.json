@@ -50,10 +50,10 @@
         "type": "header",
         "settings": {
           "icon": "bag",
-          "logo": "",
-          "logo_max_height": "15",
+          "logo": "shopify:\/\/shop_images\/A5_Combline_Transparent_V2_small_6fc7e705-cdbd-4d58-98a1-9ba476a19c88.webp",
+          "logo_max_height": "50",
           "enable_transparent": true,
-          "transparent_logo": "",
+          "transparent_logo": "shopify:\/\/shop_images\/A5_Combline_Transparent_V2_small_6fc7e705-cdbd-4d58-98a1-9ba476a19c88.webp",
           "transparent_text_color": "#ffffff",
           "primary_navigation": "main-menu",
           "secondary_navigation": "footer",
@@ -86,7 +86,6 @@
         "type": "video",
         "settings": {
           "video_url": "https:\/\/youtu.be\/ctyMuXVCsrk",
-          "cover_image": "shopify:\/\/shop_images\/yankee_ride.jpg",
           "cover_image_position": "center center",
           "cover_text": "Early Bird Gets The Worm",
           "show_overlay": true,
@@ -99,7 +98,6 @@
         "type": "hero",
         "settings": {
           "hero_size": "large",
-          "image": "",
           "alignment": "top left",
           "title": "Keep It Simple Stupid",
           "text": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.<\/p>",
@@ -131,7 +129,6 @@
         "settings": {
           "size": "large",
           "background_color": "#faf9f6",
-          "image": "shopify:\/\/shop_images\/orig_1.jpg",
           "image_crop": "none",
           "alignment": "center center",
           "title": "Image is Everything",
@@ -195,43 +192,13 @@
           "blog_show_date": true
         }
       },
-      "1479240134629": {
-        "type": "feature-row",
-        "settings": {
-          "size": "medium",
-          "background_color": "",
-          "image": "",
-          "image_crop": "none",
-          "alignment": "top left",
-          "title": "Image with text",
-          "text": "<p>Pair large text with an image to give focus to your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-          "use_second_button": false,
-          "button_label": "",
-          "button_link": "",
-          "desktop_layout": "right",
-          "mobile_layout": "top"
-        }
-      },
-      "1479242524015": {
-        "type": "featured-collection",
-        "settings": {
-          "collection": "frontpage",
-          "show_spacing": false,
-          "title": "",
-          "show_vendor": true,
-          "show_view_all": false,
-          "use_second_button": false,
-          "products": "2",
-          "rows": "1"
-        }
-      },
       "slideshow": {
         "type": "slideshow",
         "blocks": {
           "1486649185448": {
             "type": "image",
             "settings": {
-              "image": "shopify:\/\/shop_images\/KAR_20130428-3077_2048x2048_6ce6a25e-3b0b-4835-879c-f841b6bd6f7a.jpeg",
+              "image": "shopify:\/\/shop_images\/webpage_girl.webp",
               "alignment": "center center",
               "title": "Knight Rider",
               "button": "PF Bravo",
@@ -241,7 +208,6 @@
           "1486649208703": {
             "type": "image",
             "settings": {
-              "image": "shopify:\/\/shop_images\/KAR_20130707-4329_2048x2048_a3b7ef72-f66b-4422-a791-03d67c4ade7c.jpeg",
               "alignment": "center center",
               "title": "City Slicker",
               "button": "PF Uniform",
@@ -251,7 +217,6 @@
           "1486649146314": {
             "type": "image",
             "settings": {
-              "image": "shopify:\/\/shop_images\/Golf_Demos_1_2048x2048_65a6850b-58a8-42cc-afdf-725c03f3a18e.jpeg",
               "alignment": "center center",
               "title": "Hot Rod",
               "button": "PF Golf",
@@ -278,7 +243,6 @@
           "1486649413883-0": {
             "type": "image",
             "settings": {
-              "image": "shopify:\/\/shop_images\/maxresdefault.jpg",
               "alignment": "center center",
               "icon": "none",
               "cta_label": "Light",
@@ -288,7 +252,6 @@
           "1486649413883-1": {
             "type": "image",
             "settings": {
-              "image": "shopify:\/\/shop_images\/purefix-mike-inf2.jpg",
               "alignment": "center right",
               "icon": "none",
               "cta_label": "Tight",
@@ -313,7 +276,6 @@
         "settings": {
           "border_color": "#cbc8c1",
           "content_alignment": "middle",
-          "image": "shopify:\/\/shop_images\/924999_646337702103575_5295819_n.jpg",
           "image_position": "back",
           "heading": "Spring Contest",
           "text": "Looking for something for someone special? A gift card to our store is the perfect idea!",
@@ -330,7 +292,6 @@
             "settings": {
               "background_color": "#9d988b",
               "show_image": true,
-              "slide_image": "shopify:\/\/shop_images\/Unknown-1.jpeg",
               "slide_title": "Featured variant",
               "slide_button_text": "View",
               "slide_button_url": ""
@@ -341,7 +302,6 @@
             "settings": {
               "background_color": "#cdcdcd",
               "show_image": true,
-              "slide_image": "shopify:\/\/shop_images\/Unknown-1.png",
               "slide_title": "Featured variant",
               "slide_button_text": "View",
               "slide_button_url": ""
@@ -352,7 +312,6 @@
             "settings": {
               "background_color": "#a7a59e",
               "show_image": true,
-              "slide_image": "shopify:\/\/shop_images\/Unknown-2.jpeg",
               "slide_title": "Featured variant",
               "slide_button_text": "View",
               "slide_button_url": ""
@@ -367,7 +326,6 @@
         "settings": {
           "use_second_button": false,
           "text_color": "#ffffff",
-          "cover_image": "shopify:\/\/shop_images\/KAR_20130707-4339_2048x2048_e8734b1a-0c97-41d4-b110-236425478a31.jpeg",
           "cover_title": "Pick your ride",
           "cover_title_desktop_position": "center",
           "show_overlay": true,
@@ -382,7 +340,7 @@
           "featured_product": "",
           "layout": "square",
           "image_size": "cover",
-          "background_color": "transparent",
+          "background_color": "rgba(0,0,0,0)",
           "show_quantity_selector": false,
           "show_variant_labels": true,
           "show_vendor": false,
@@ -518,7 +476,8 @@
         },
         "1476381402840": {
           "type": "video",
-          "settings": {}
+          "settings": {
+          }
         },
         "1476381658595": {
           "type": "hero",
@@ -568,11 +527,13 @@
           "blocks": {
             "1478027260401-0": {
               "type": "quote",
-              "settings": {}
+              "settings": {
+              }
             },
             "1478027389453": {
               "type": "quote",
-              "settings": {}
+              "settings": {
+              }
             }
           },
           "block_order": [
@@ -601,52 +562,28 @@
             "blog_show_date": true
           }
         },
-        "1479240134629": {
-          "type": "feature-row",
-          "settings": {
-            "size": "medium",
-            "background_color": "",
-            "image": "",
-            "image_crop": "none",
-            "alignment": "top left",
-            "use_second_button": false,
-            "button_label": "",
-            "button_link": "",
-            "desktop_layout": "right",
-            "mobile_layout": "top"
-          }
-        },
-        "1479242524015": {
-          "type": "featured-collection",
-          "settings": {
-            "collection": "frontpage",
-            "show_spacing": false,
-            "title": "",
-            "show_vendor": true,
-            "show_view_all": false,
-            "use_second_button": false,
-            "products": "2",
-            "rows": "1"
-          }
-        },
         "slideshow": {
           "type": "slideshow",
           "blocks": {
             "1486649146314": {
               "type": "image",
-              "settings": {}
+              "settings": {
+              }
             },
             "1486649185448": {
               "type": "image",
-              "settings": {}
+              "settings": {
+              }
             },
             "1486649208703": {
               "type": "image",
-              "settings": {}
+              "settings": {
+              }
             },
             "1486649267624": {
               "type": "image",
-              "settings": {}
+              "settings": {
+              }
             }
           },
           "block_order": [
@@ -668,11 +605,13 @@
           "blocks": {
             "1486649413883-0": {
               "type": "image",
-              "settings": {}
+              "settings": {
+              }
             },
             "1486649413883-1": {
               "type": "image",
-              "settings": {}
+              "settings": {
+              }
             }
           },
           "block_order": [
@@ -849,7 +788,8 @@
           "blocks": {
             "1486583739899": {
               "type": "video",
-              "settings": {}
+              "settings": {
+              }
             }
           },
           "block_order": [
@@ -1169,7 +1109,8 @@
           "blocks": {
             "1486663529263": {
               "type": "video",
-              "settings": {}
+              "settings": {
+              }
             }
           },
           "block_order": [
