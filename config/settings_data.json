@@ -439,6 +439,23 @@
           "desktop_layout": "left",
           "mobile_layout": "top"
         }
+      },
+      "8d353fc8-b3c1-4494-aaca-31a777ee71d4": {
+        "type": "feature-row",
+        "settings": {
+          "size": "large",
+          "background_color": "#faf9f6",
+          "image": "shopify:\/\/shop_images\/David_web_small_738288dd-56d8-4805-83c1-ddd1be58c677.jpg",
+          "image_crop": "none",
+          "alignment": "center center",
+          "title": "STYLING",
+          "text": "<p>With the ability to straighten, blow dry, colour and perm over the bonds.<\/p><p>CombLine is the best choice for any hair enhancement application.<\/p><p><strong>CombLine Made in Australia<\/strong><\/p>",
+          "use_second_button": false,
+          "button_label": "",
+          "button_link": "",
+          "desktop_layout": "right",
+          "mobile_layout": "top"
+        }
       }
     },
     "content_for_index": [
@@ -447,6 +464,7 @@
       "7faaaf78-f5df-4349-8ff5-fe28592afce4",
       "9e388fc7-ab6e-4180-b073-c43b7bb26738",
       "695cae38-f85e-4c2a-9876-a0a46c5c1e1e",
+      "8d353fc8-b3c1-4494-aaca-31a777ee71d4",
       "1476381658595",
       "1486649413883",
       "1478027260401",
